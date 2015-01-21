@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 # In[31]:
 
-get_ipython().magic(u'pylab inline')
+#get_ipython().magic(u'pylab inline')
 
 
 # In[32]:

@@ -6,7 +6,7 @@
 # In[1]:
 
 import pandas as pd
-
+import matplotlib.pyplot as plt
 
 # In[2]:
 
@@ -40,7 +40,7 @@ data_sheet1.sort('Salary')
 
 # In[8]:
 
-get_ipython().magic(u'pylab inline')
+#get_ipython().magic(u'pylab inline')
 
 
 # In[9]:

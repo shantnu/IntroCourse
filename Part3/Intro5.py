@@ -32,7 +32,8 @@ print b
 
 # In[5]:
 
-a *b
+# Not allowed
+# a *b
 
 
 # In[6]:
@@ -56,18 +57,18 @@ print b2
 
 # In[10]:
 
-a2 * b2
+print a2 * b2
 
 
 # In[11]:
 
 a3 = np.array([2, 56, 1, 9, 0])
-np.sort(a3)
+print np.sort(a3)
 
 
 # In[12]:
 
-np.mean(a2)
+print np.mean(a2)
 
 
 # In[13]:
